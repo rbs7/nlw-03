@@ -12,12 +12,12 @@ const Routes: React.FC = () => {
       <Switch>
         <Route path="/" exact component={Landing} />
         <Route path="/app" component={OrphanagesMap} />
-        
+
         <Route path="/orphanages/create" component={CreateOrphanage} />
         <Route path="/orphanages/:id" component={Orphanage} />
       </Switch>
     </BrowserRouter>
   );
-}
+};
 
-export default Routes
+export default Routes;
