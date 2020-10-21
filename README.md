@@ -11,11 +11,11 @@ The parts of the app are:
 
 ## Screenshots
 <!-- <p align="center">
-  <img width="250px" height="514px" alt="Happy Home Screenshot" src="https://raw.githubusercontent.com/rbs7/nlw-03/main/screenshots/screenshot_expo_01.png"> &nbsp;&nbsp;&nbsp; <img width="250px" height="514px" alt="Happy Search Screenshot" src="https://raw.githubusercontent.com/rbs7/nlw-03/main/screenshots/screenshot_expo_02.png"> &nbsp;&nbsp;&nbsp; <img width="250px" height="514px" alt="Happy Other Screenshot" src="https://raw.githubusercontent.com/rbs7/nlw-03/main/screenshots/screenshot_expo_03.png">
+  <img width="250px" height="514px" alt="Happy Home Screenshot" src="https://raw.githubusercontent.com/rgerio/nlw-03/main/screenshots/screenshot_expo_01.png"> &nbsp;&nbsp;&nbsp; <img width="250px" height="514px" alt="Happy Search Screenshot" src="https://raw.githubusercontent.com/rgerio/nlw-03/main/screenshots/screenshot_expo_02.png"> &nbsp;&nbsp;&nbsp; <img width="250px" height="514px" alt="Happy Other Screenshot" src="https://raw.githubusercontent.com/rgerio/nlw-03/main/screenshots/screenshot_expo_03.png">
 </p> -->
 <p align="center">
-  <img width="900px" height="450px" alt="Happy Web Screenshot" src="https://raw.githubusercontent.com/rbs7/nlw-03/main/screenshots/screenshot_web_01.png">
-  <img width="900px" height="450px" alt="Happy Web Screenshot" src="https://raw.githubusercontent.com/rbs7/nlw-03/main/screenshots/screenshot_web_02.png">
+  <img width="900px" height="450px" alt="Happy Web Screenshot" src="https://raw.githubusercontent.com/rgerio/nlw-03/main/screenshots/screenshot_web_01.png">
+  <img width="900px" height="450px" alt="Happy Web Screenshot" src="https://raw.githubusercontent.com/rgerio/nlw-03/main/screenshots/screenshot_web_02.png">
 </p>
 
 ## Tecnologies
@@ -30,7 +30,7 @@ After installing [Git](https://git-scm.com) and [Node.js](https://nodejs.org/) (
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rbs7/nlw-03.git
+$ git clone https://github.com/rgerio/nlw-03.git
 
 # For server app
 $ cd server
